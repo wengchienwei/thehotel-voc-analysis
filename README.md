@@ -1,6 +1,10 @@
-# thehotel-voc-analysis
+# The Hotel VOC Analysis
 
 Voice of customer analysis on 47,741 bilingual hotel reviews using XLM-RoBERTa sentiment classification and BERTopic topic modelling to identify the top operational areas driving guest dissatisfaction.
+
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.40+-yellow.svg)](https://github.com/huggingface/transformers)
+[![BERTopic](https://img.shields.io/badge/BERTopic-0.16+-green.svg)](https://bertopic.com/)
 
 ---
 
