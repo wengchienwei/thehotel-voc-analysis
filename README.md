@@ -109,6 +109,7 @@ Note: Dataset not included. If you have access to the reviews.csv file:
 ## License
 
 Code: MIT License
+
 Dataset: Not included (proprietary to course)
 
 ---
@@ -116,7 +117,9 @@ Dataset: Not included (proprietary to course)
 ## Author
 
 Chien-Wei Weng
+
 MSc Data Sciences and Business Analytics
+
 CentraleSupélec × ESSEC Business School
 
 ---
