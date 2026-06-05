@@ -114,14 +114,5 @@ Dataset: Not included (proprietary to course)
 
 ---
 
-## Author
-
-Chien-Wei Weng
-
-MSc Data Sciences and Business Analytics
-
-CentraleSupélec × ESSEC Business School
-
----
 
 **Academic Project | AI in Business & Data Monetization (Spring 2026)**
