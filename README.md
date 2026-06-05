@@ -17,14 +17,14 @@ THEHOTEL.com management cannot act on tens of thousands of individual reviews. T
 3. Are complaint themes shifting over time?
 
 **Key findings:**
-- Room quality and service consistency account for 55.9% of all negative reviews and are stable across the two-month window — a structural problem, not a transient event
+- Room quality and service consistency account for 55.9% of all negative reviews and are stable across the two-month window: a structural problem, not a transient event
 - Business travellers are the most dissatisfied segment (35.5% negative rate), followed by the 25–34 age group (34%)
 - Brand 36 is a clear outlier with a 64% negative rate on 25 reviews; brands 2 and 0 (Ibis) show a distinct price-quality mismatch complaint cluster
 
 **Recommended actions (priority order):**
 1. Set group-wide minimum service standards for business traveller segments
 2. Investigate room and service complaints at brands 35, 28, 33, and 31 with a shared root cause analysis
-3. Audit brand 36 directly — small volume, extreme negative rate
+3. Audit brand 36 directly: small volume, extreme negative rate
 4. Review Ibis room quality and pricing communication for brands 2 and 0
 
 ---
